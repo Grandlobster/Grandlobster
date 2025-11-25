@@ -1,162 +1,180 @@
 <div align="center">
 
-<!-- Nuclear Reactor Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=200&section=header&text=⚛️%20AADESH%20LAWANDE%20⚛️&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=NUCLEAR%20POWERED%20AI%20ENGINEER&descSize=20&descAlignY=55"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AADESH%20LAWANDE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Radioactive Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A0%EF%B8%8F+QUANTUM+CORE+ACTIVATED+%E2%9A%A0%EF%B8%8F;%F0%9F%94%8B+AI+%26+DATA+SCIENCE+REACTOR+%F0%9F%94%8B;%E2%98%A2%EF%B8%8F+CLIMATE+TECH+WARRIOR+%E2%98%A2%EF%B8%8F;%E2%9A%9B%EF%B8%8F+BUILDING+THE+FUTURE+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
-</a>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Climate+Change+Warrior+%F0%9F%8C%8D;Quantum+Computing+Explorer+%E2%9A%9B%EF%B8%8F;Building+The+Future%2C+One+Algorithm+At+A+Time" alt="Typing SVG" /></a>
 
-<!-- Glowing Divider -->
+<!-- Cool Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Matrix Rain GIF -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="200" alt="Matrix">
-
-<!-- Nuclear ASCII Art -->
+<!-- ASCII Art Section - PASTE YOUR FACE HERE -->
 ```
-     ⚛️  ███╗   ██╗██╗   ██╗ ██████╗██╗     ███████╗ █████╗ ██████╗     ██████╗ ███████╗ █████╗  ██████╗████████╗ ██████╗ ██████╗   ⚛️
-     ☢️  ████╗  ██║██║   ██║██╔════╝██║     ██╔════╝██╔══██╗██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗  ☢️
-     🔋 ██╔██╗ ██║██║   ██║██║     ██║     █████╗  ███████║██████╔╝    ██████╔╝█████╗  ███████║██║        ██║   ██║   ██║██████╔╝  🔋
-     ⚡ ██║╚██╗██║██║   ██║██║     ██║     ██╔══╝  ██╔══██║██╔══██╗    ██╔══██╗██╔══╝  ██╔══██║██║        ██║   ██║   ██║██╔══██╗  ⚡
-     💚 ██║ ╚████║╚██████╔╝╚██████╗███████╗███████╗██║  ██║██║  ██║    ██║  ██║███████╗██║  ██║╚██████╗   ██║   ╚██████╔╝██║  ██║  💚
-        ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝  
+████████╗██╗  ██╗███████╗    ██████╗  █████╗ ████████╗ █████╗     ███████╗ ██████╗ ██╗   ██╗██╗     
+╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██╔═══██╗██║   ██║██║     
+   ██║   ███████║█████╗      ██║  ██║███████║   ██║   ███████║    ███████╗██║   ██║██║   ██║██║     
+   ██║   ██╔══██║██╔══╝      ██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║   ██║██║   ██║██║     
+   ██║   ██║  ██║███████╗    ██████╔╝██║  ██║   ██║   ██║  ██║    ███████║╚██████╔╝╚██████╔╝███████╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝
+                                                                                                      
+   ██╗    ██╗ █████╗ ██████╗ ██████╗ ██╗ ██████╗ ██████╗                                            
+   ██║    ██║██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗██╔══██╗                                           
+   ██║ █╗ ██║███████║██████╔╝██████╔╝██║██║   ██║██████╔╝                                           
+   ██║███╗██║██╔══██║██╔══██╗██╔══██╗██║██║   ██║██╔══██╗                                           
+   ╚███╔███╔╝██║  ██║██║  ██║██║  ██║██║╚██████╔╝██║  ██║                                           
+    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝                                           
 ```
 
-<!-- Paste YOUR ASCII Art Face HERE -->
-<!-- Use: https://manytools.org/hacker-tools/convert-images-to-ascii-art/ -->
-<!-- Upload your photo and convert! -->
+<!-- Add YOUR ASCII art face here -->
+<!-- Use this tool: https://www.text-image.com/convert/pic2ascii.cgi -->
 
 <br/>
 
-<!-- Nuclear Counter -->
-![](https://komarev.com/ghpvc/?username=Grandlobster&label=REACTOR+VISITS&color=00ff41&style=for-the-badge&abbreviated=true)
-![](https://img.shields.io/github/followers/Grandlobster?label=RADIATION+FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0a0a0a)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=aadeshlawande&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-<!-- Glowing Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Grandlobster&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="trophy" />
-
-<!-- Animated Gif -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Hacking">
+<!-- Trophy Animation -->
+<img src="https://github-profile-trophy.vercel.app/?username=aadeshlawande&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
 
 </div>
 
 ---
 
-## ⚡ **REACTOR CORE: INITIALIZING...**
+## 🎯 **MISSION: CODE → IMPACT → FUTURE**
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```python
-class NuclearReactor:
+class AadeshLawande:
     def __init__(self):
         self.name = "Aadesh Lawande"
-        self.core_temperature = "CRITICAL ☢️"
-        self.power_level = float('inf')
+        self.role = "AI & Data Science Engineer"
         self.location = "India 🇮🇳"
-        self.institute = "Zeal College"
+        self.education = "Zeal College of Engineering"
+        self.passions = [
+            "🤖 Artificial Intelligence",
+            "🌍 Climate Change Solutions", 
+            "⚛️ Quantum Computing",
+            "🎮 Horror Gaming",
+            "🌱 Sustainable Tech"
+        ]
         
-        self.fuel_rods = {
-            '🧠': 'Artificial Intelligence',
-            '📊': 'Data Science Mastery',
-            '⚛️': 'Quantum Computing',
-            '🌍': 'Climate Tech Solutions',
-            '🎮': 'Horror Game Analysis',
-            '🌱': 'Sustainable Innovation'
-        }
-        
-    def emit_radiation(self):
-        return "💚 SPREADING KNOWLEDGE ACROSS THE UNIVERSE 💚"
-        
-    def __str__(self):
-        return "⚠️ DANGER: HIGHLY REACTIVE DEVELOPER ⚠️"
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something epic together 🚀")
 
-reactor = NuclearReactor()
-print(reactor.emit_radiation())
-# Output: 💚 SPREADING KNOWLEDGE ACROSS THE UNIVERSE 💚
+me = AadeshLawande()
+me.say_hi()
 ```
 
-</td>
-<td width="40%">
+### 💫 **What I'm Up To**
 
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%">
-
-### ⚠️ **CURRENT OPERATIONS**
-
-```yaml
-Status: ACTIVE ⚡
-Core_Temp: 9000°K 🔥
-Projects: 15+ ⚙️
-Commits: INFINITE ♾️
-Sleep: ERROR 404 😴
-Coffee: CRITICAL ☕
-```
-
-</td>
-</tr>
-</table>
-
-### 🔋 **POWER GENERATION ACTIVITIES**
-
-- ⚡ **WEAPONS GRADE:** AI-Powered Gun Detection System (YOLO v8)
-- 🧬 **GENETIC MUTATION:** TimeTable Generator with Evolutionary Algorithms  
-- 🌐 **QUANTUM FIELD:** Three.js Interactive 3D Portfolio
-- ☢️ **RADIATION ZONE:** Qiskit Quantum Computing Labs
-- 🤖 **CORE MELTDOWN:** Deep Learning for Climate Prediction
-- 💚 **ECO REACTOR:** Sustainable IoT Solutions
+- 🔭 Currently working on **AI-Powered Weapon Detection Systems**
+- 🧬 Exploring **Genetic Algorithms** for optimization problems
+- 🌐 Building **interactive 3D web experiences** with Three.js
+- 📚 Learning **Quantum Computing** with IBM Qiskit
+- 🌱 Growing **sustainable tech solutions** for climate change
+- 💡 Contributing to **open-source AI projects**
 
 ---
 
 <div align="center">
 
-## ⚛️ **NUCLEAR ARSENAL: TECHNOLOGIES**
+## 🛠️ **TECH ARSENAL**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🔋 **PRIMARY FUEL RODS**
-![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=black&labelColor=0a0a0a)
-![JavaScript](https://img.shields.io/badge/JavaScript-00ff41?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a)
-![C++](https://img.shields.io/badge/C++-00ff41?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=0a0a0a)
-![SQL](https://img.shields.io/badge/SQL-00ff41?style=for-the-badge&logo=mysql&logoColor=black&labelColor=0a0a0a)
+### **AI/ML Frameworks**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### ⚡ **AI CORE REACTORS**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-39ff14?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=0a0a0a)
-![PyTorch](https://img.shields.io/badge/PyTorch-00ff41?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0a0a0a)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-39ff14?style=for-the-badge&logo=scikit-learn&logoColor=black&labelColor=0a0a0a)
-![OpenCV](https://img.shields.io/badge/OpenCV-00ff41?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0a0a0a)
-![Keras](https://img.shields.io/badge/Keras-39ff14?style=for-the-badge&logo=keras&logoColor=black&labelColor=0a0a0a)
-![YOLO](https://img.shields.io/badge/YOLO-00ff41?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0a0a0a)
+### **Data Science**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 💚 **DATA PROCESSING UNITS**
-![Pandas](https://img.shields.io/badge/Pandas-00ff41?style=for-the-badge&logo=pandas&logoColor=black&labelColor=0a0a0a)
-![NumPy](https://img.shields.io/badge/NumPy-39ff14?style=for-the-badge&logo=numpy&logoColor=black&labelColor=0a0a0a)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00ff41?style=for-the-badge&logo=plotly&logoColor=black&labelColor=0a0a0a)
-![Jupyter](https://img.shields.io/badge/Jupyter-39ff14?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=0a0a0a)
+### **Web & 3D**
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌐 **3D RENDERING CHAMBER**
-![Three.js](https://img.shields.io/badge/Three.js-00ff41?style=for-the-badge&logo=three.js&logoColor=black&labelColor=0a0a0a)
-![React](https://img.shields.io/badge/React-39ff14?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0a0a)
-![WebGL](https://img.shields.io/badge/WebGL-00ff41?style=for-the-badge&logo=webgl&logoColor=black&labelColor=0a0a0a)
-![Blender](https://img.shields.io/badge/Blender-39ff14?style=for-the-badge&logo=blender&logoColor=black&labelColor=0a0a0a)
-
-### ⚛️ **QUANTUM ACCELERATORS**
-![Qiskit](https://img.shields.io/badge/Qiskit-00ff41?style=for-the-badge&logo=ibm&logoColor=black&labelColor=0a0a0a)
-![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-39ff14?style=for-the-badge&logo=ibm&logoColor=black&labelColor=0a0a0a)
-
-### 🔧 **CONTROL SYSTEMS**
-![Git](https://img.shields.io/badge/Git-00ff41?style=for-the-badge&logo=git&logoColor=black&labelColor=0a0a0a)
-![Linux](https://img.shields.io/badge/Linux-39ff14?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a)
-![Arduino](https://img.shields.io/badge/Arduino-00ff41?style=for-the-badge&logo=arduino&logoColor=black&labelColor=0a0a0a)
-![VS Code](https://img.shields.io/badge/VS_Code-39ff14?style=for-the-badge&logo=visual-studio-code&logoColor=black&labelColor=0a0a0a)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
+
+## 🚀 **FEATURED PROJECTS**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔫 AI-GUN Detection System
+**Real-time weapon detection using YOLO**
+
+![AI Gun](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=python&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
+
+- 🎯 95%+ accuracy in real-time detection
+- 📹 Video stream processing
+- 🚨 Instant alert system
+- 🧠 Deep Learning powered
+
+[View Project →](https://github.com/aadeshlawande)
+
+</td>
+<td width="50%">
+
+### 📅 Smart TimeTable Generator
+**Genetic Algorithm-based scheduler**
+
+![Genetic](https://img.shields.io/badge/Genetic_Algo-FF1493?style=for-the-badge&logo=dna&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+- 🧬 Evolution-based optimization
+- ⚡ Instant conflict resolution
+- 📊 Multiple constraint handling
+- 🎨 Interactive visualization
+
+[View Project →](https://github.com/aadeshlawande)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚛️ Quantum Computing Lab
+**Qiskit experiments & quantum circuits**
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
+
+- 🌀 Quantum circuit design
+- 🔬 Algorithm implementations
+- 📈 Simulation & analysis
+- 🏆 Qiskit Fall Fest organizer
+
+[View Project →](https://github.com/aadeshlawande)
+
+</td>
+<td width="50%">
 
 ## 🚀 **WEAPONS SYSTEMS: DEPLOYED PROJECTS**
 
