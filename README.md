@@ -122,10 +122,11 @@ const aadesh = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔫 AI-GUN DETECTION SYSTEM
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
+### 🔫 AI-GUN 
+<img width="720" height="1247" alt="image" src="https://github.com/user-attachments/assets/0b2d801f-c23b-4d1c-b7c1-58324777e48a" />
 
-**The Vibe:** *Your friendly neighborhood weapon detector*
+
+**The Vibe:** *AI-Gun auto_aim + target detection* 
 
 ```yaml
 Status: 🟢 FULLY OPERATIONAL
@@ -135,9 +136,9 @@ Flex: Real-time video processing
 ```
 
 **What It Does:**
-- Detects weapons in real-time (yes, actually works)
+- Detects target through in real-time (yes, actually works)
 - Processes live video feeds like a boss
-- Sends instant alerts (faster than you can blink)
+- Shots target at headshot
 - Could literally save lives (no cap)
 
 **Tech Stack:** 
@@ -147,13 +148,14 @@ Flex: Real-time video processing
 
 > *"This shit actually works and I'm proud af"*
 
-[🔗 Check It Out](https://github.com/aadeshlawande)
+[🔗 Check It Out](https://github.com/Grandlobster/A.i_Gun)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 GENETIC TIMETABLE GENERATOR
-<img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/>
+<img width="480" height="236" alt="image" src="https://github.com/user-attachments/assets/e45e80be-28a7-46d9-83aa-c1204b14e689" />
+
 
 **The Vibe:** *Darwin meets scheduling chaos*
 
@@ -176,7 +178,7 @@ Flex: Zero conflicts guaranteed
 
 > *"Natural selection but for class schedules"*
 
-[🔗 Check It Out](https://github.com/aadeshlawande)
+[🔗 Check It Out](https://github.com/Grandlobster/Timetable-Generator)
 
 </td>
 </tr>
@@ -184,31 +186,29 @@ Flex: Zero conflicts guaranteed
 <tr>
 <td width="50%" valign="top">
 
-### ⚛️ QUANTUM COMPUTING LAB
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="100%"/>
+### EVM Aadhar based 
+![78459-afmkufqttq-1515292809](https://github.com/user-attachments/assets/f3f06b57-2e8c-402b-89d4-e8347337e648)
 
-**The Vibe:** *Breaking physics for breakfast*
+
+**The Vibe:** *Using Aadhar Biometrics to verify voters and RFID Card Ultra secure *
 
 ```yaml
-Status: 🟢 SUPERPOSITION MODE
-Platform: IBM Qiskit
-Circuits: Multiple quantum algorithms
-Flex: Organized Qiskit Fall Fest
+Status: 🟢 Selected in Avishkar Zonal Level Competetion 
+Stack: Arduino Mega
 ```
 
 **What It Does:**
-- Design quantum circuits (yes I'm that smart)
-- Run algorithms on real quantum computers
-- Teach others about quantum weirdness
-- Challenge reality itself
+- Verify Voters
+- Count and stores encrypted votes in sd card 
+- sd card has write shield
+- sends off alarm when tampering takes place
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 
-> *"Schrodinger's code - it works and doesn't work"*
+> *"The judge said government won't implement it !!!"*
 
-[🔗 Explore The Void](https://github.com/aadeshlawande)
+[🔗 Explore The Machine](https://github.com/Grandlobster/EVM)
 
 </td>
 <td width="50%" valign="top">
@@ -252,12 +252,14 @@ Flex: Using AI for actual good
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/⚛️-Qiskit_Fall_Fest_MENTOR-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/><br/>
+<img width="469" height="480" alt="image" src="https://github.com/user-attachments/assets/58ab09d1-5075-4f90-80d1-ae4e919a05e6" />
+
 <sub><b>Organized quantum computing workshops</b></sub><br/>
 <sub>Teaching people to break reality 🤯</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/💼-Quantum_Business-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/><br/>
+<img width="680" height="680" alt="image" src="https://github.com/user-attachments/assets/1a1574b4-3aa3-4f1d-8788-2cd406541af9" />
+
 <sub><b>IBM Qiskit Business Badge</b></sub><br/>
 <sub>Because quantum isn't just physics 📊</sub>
 </td>
@@ -286,7 +288,7 @@ Flex: Using AI for actual good
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aadeshlawande&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Grandlobster&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
 
 </div>
 
@@ -296,10 +298,10 @@ Flex: Using AI for actual good
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadeshlawande&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f92672&icon_color=a6e22e&text_color=e6db74&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Grandlobster&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f92672&icon_color=a6e22e&text_color=e6db74&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshlawande&theme=radical&hide_border=true&background=0d1117&stroke=f92672&ring=a6e22e&fire=f92672&currStreakLabel=a6e22e" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshlawande&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f92672&text_color=e6db74" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandlobster&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f92672&text_color=e6db74" />
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=aadeshlawande&theme=radical&hide_border=true&bg_color=0d1117&title_color=f92672&text_color=e6db74" />
 
 <!-- Activity Graph -->
