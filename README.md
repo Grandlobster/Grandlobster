@@ -1,276 +1,377 @@
 <div align="center">
 
-<!-- Clean Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aadesh%20Lawande&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Climate%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+<!-- Epic Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AADESH%20LAWANDE&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=not%20your%20average%20code%20monkey%20🦧&descSize=20&descAlignY=55"/>
 
-<br/>
+<!-- Glitch Effect Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=F70000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=%F0%9F%A7%A0+AI+Engineer+%7C+Building+Sci-Fi+Stuff;%E2%9A%9B%EF%B8%8F+Quantum+Explorer+%7C+Breaking+Reality;%F0%9F%8C%8D+Climate+Warrior+%7C+Saving+The+Planet;%F0%9F%94%A5+Also+I+Make+Cool+Shit" alt="Typing SVG" />
 
-<!-- Quick Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions;Exploring+quantum+possibilities;Fighting+climate+change+with+AI;Always+learning%2C+always+building" alt="Typing SVG" />
+<!-- Glitch Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-<br/>
-
-<!-- Profile Views & Socials in One Line -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aadeshlawande&label=Profile%20Views&color=667eea&style=flat-square" alt="profile views" />
-  <a href="https://www.linkedin.com/in/aadesh-lawande-41877825b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/aadeshlawande"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <a href="https://medium.com/@aadeshlawande22"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/u/sonulawande"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:aadeshlawande22@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
-</div>
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
-</p>
-
-### AI/ML & Data Science
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
-</p>
-
-### Web & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50" height="50" alt="Three.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class AadeshLawande:
-    def __init__(self):
-        self.role = "AI & Data Science Engineer"
-        self.location = "Pune, India 🇮🇳"
-        self.education = "Zeal College of Engineering"
-        self.currently_working_on = [
-            "AI-Powered Weapon Detection Systems",
-            "Genetic Algorithm Optimization",
-            "Quantum Computing with IBM Qiskit"
-        ]
-        self.interests = [
-            "Artificial Intelligence & Machine Learning",
-            "Climate Change Solutions",
-            "Quantum Computing",
-            "3D Web Experiences",
-            "Open Source Contribution"
-        ]
+<!-- Aesthetic Banner -->
+```
+    ▄▀█ █ █▄░█ ▀█▀   █▄░█ █▀█   █▀▄ █▀▀ █▀▀ █▀█ █▀▀ █▀▀
+    █▀█ █ █░▀█ ░█░   █░▀█ █▄█   █▄▀ ██▄ █▄█ █▀▄ ██▄ ██▄
     
-    def current_focus(self):
-        return {
-            "learning": "Advanced Deep Learning & Quantum Algorithms",
-            "building": "AI solutions for real-world problems",
-            "exploring": "Intersection of AI and Climate Tech"
-        }
+    █ █▄░█   █▀▀ █▀█ █▀▄ █ █▄░█ █▀▀   ░   █ █▄░█   █░░ █ █▀▀ █▀▀
+    █ █░▀█   █▄▄ █▄█ █▄▀ █ █░▀█ █▄█   ▄   █ █░▀█   █▄▄ █ █▀░ ██▄
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<br/>
 
-### 🎯 What I'm Up To
-
-- 🔭 Building **AI-powered weapon detection** using YOLOv8
-- 🧬 Developing **genetic algorithm** timetable optimization
-- ⚛️ Exploring **quantum computing** with Qiskit
-- 🌱 Creating **climate tech solutions** with AI/ML
-- 🌐 Crafting **interactive 3D experiences** with Three.js
-- 💡 Contributing to **open-source AI projects**
-
-<br clear="right"/>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔫 AI Weapon Detection System
-*Real-time threat detection using deep learning*
-
-**Tech Stack:** Python • YOLOv8 • OpenCV • TensorFlow
-
-🎯 **Key Features:**
-- Real-time video stream processing
-- 95%+ detection accuracy
-- Instant alert system
-- Scalable architecture
-
-> *Advanced computer vision system for public safety*
-
-📁 [View Project →](https://github.com/aadeshlawande)
-
-</td>
-<td width="50%" valign="top">
-
-### 📅 Smart Timetable Generator
-*Evolutionary algorithm-based scheduling*
-
-**Tech Stack:** Python • Genetic Algorithms • Optimization
-
-🧬 **Key Features:**
-- Genetic algorithm optimization
-- Conflict resolution
-- Multi-constraint handling
-- Interactive visualization
-
-> *Intelligent scheduling powered by evolutionary computation*
-
-📁 [View Project →](https://github.com/aadeshlawande)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ Quantum Computing Experiments
-*Exploring quantum algorithms with Qiskit*
-
-**Tech Stack:** Python • Qiskit • IBM Quantum
-
-🔬 **Key Features:**
-- Quantum circuit design
-- Algorithm implementations
-- Simulation & analysis
-- Educational resources
-
-> *Pushing boundaries in quantum computation*
-
-📁 [View Project →](https://github.com/aadeshlawande)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 Climate AI Solutions
-*Machine learning for environmental impact*
-
-**Tech Stack:** Python • TensorFlow • IoT Sensors
-
-🌱 **Key Features:**
-- Climate data analysis
-- Predictive modeling
-- Real-time monitoring
-- Sustainable tech focus
-
-> *Using AI to combat climate change*
-
-📁 [View Project →](https://github.com/aadeshlawande)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadeshlawande&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=764ba2&text_color=a9b1d6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshlawande&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshlawande&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=a9b1d6" />
-
-<!-- Activity Graph -->
-[![Aadesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadeshlawande&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=667eea&line=764ba2&point=667eea)](https://github.com/aadeshlawande)
-
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🎯 Achievement | 📝 Description | 📅 Year |
-|:---|:---|:---:|
-| **⚛️ Qiskit Fall Fest** | Organized quantum computing workshop & hackathon | 2024 |
-| **🤖 ML Engineering** | CAD Design & Advanced Data Analysis Internship | 2024 |
-| **🏆 Hackathon Winner** | AI-Based Climate Solution Competition | 2023 |
-| **📢 Tech Speaker** | AI/ML Workshops & Community Mentorship | 2024 |
-| **🌱 Climate Volunteer** | Sustainable Tech Education Programs | 2023-24 |
-| **💻 Open Source** | 50+ Contributions to AI/ML Projects | 2024 |
-
-</div>
-
----
-
-## 🎨 Beyond Code
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/128/3094/3094840.png" width="60"/><br/>
-<b>Climate Tech</b><br/>
-<sub>Building sustainable solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/128/686/686589.png" width="60"/><br/>
-<b>Quantum Research</b><br/>
-<sub>Exploring quantum mechanics</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/128/2936/2936886.png" width="60"/><br/>
-<b>Horror Gaming</b><br/>
-<sub>Narrative & game mechanics</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/128/3143/3143609.png" width="60"/><br/>
-<b>Urban Gardening</b><br/>
-<sub>Growing mindfully</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 💼 Open for Collaborations • Internships • AI Projects • Research Opportunities
-
-### ⭐ If you find my work interesting, drop a star on my repositories!
+<!-- Social Links with Custom Design -->
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-lawande-41877825b/)
+[![Kaggle](https://img.shields.io/badge/📊_Kaggle-Data_Wizard-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/aadeshlawande)
+[![Medium](https://img.shields.io/badge/✍️_Medium-Read_My_Mind-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aadeshlawande22)
+[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-Grinding-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/u/sonulawande)
+[![Email](https://img.shields.io/badge/📧_Email-Hit_Me_Up-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadeshlawande22@gmail.com)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-Behind_Scenes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aadeshlawande)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=aadeshlawande&label=STALKERS&color=blueviolet&style=for-the-badge)
+![GitHub Trophy](https://img.shields.io/badge/GITHUB-ADDICT-black?style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+<img align="right" alt="Vibe Check" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🎮 WHO TF AM I?
+
+```javascript
+const aadesh = {
+    identity: "Code Wizard 🧙‍♂️ | AI Enthusiast 🤖",
+    location: "Pune, India 🇮🇳",
+    university: "Zeal College of Engineering",
+    vibe: "Building cool shit that matters ✨",
+    obsessions: [
+        "🤖 Making machines smarter than me",
+        "⚛️ Playing with quantum computers", 
+        "🌍 Fighting climate change with code",
+        "🎮 Horror games & psychological thrillers",
+        "🧪 Skincare chemistry experiments",
+        "🌱 Growing plants & patience"
+    ],
+    currentlyPlaying: [
+        "🔫 Building AI weapon detection (YOLO supremacy)",
+        "🧬 Making timetables with genetic algorithms",
+        "⚛️ Breaking quantum computers for fun",
+        "🌐 Creating trippy 3D web experiences"
+    ],
+    funFact: "I debug code AND my life simultaneously 🐛"
+};
+```
+
+---
+
+<div align="center">
+
+## 🔥 TECH STACK (aka my weapons of choice)
+
+### 🎯 Languages I Speak (Better Than English)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python - My First Love"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" title="JavaScript - For The Web"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++ - The OG"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="SQL" title="SQL - Data Whisperer"/>
+</p>
+
+### 🧠 AI/ML Arsenal (Making Skynet Real)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="60" height="60" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60" alt="Matplotlib"/>
+</p>
+
+### 🎨 Web & Creative Stuff (Making Pretty Things)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="60" height="60" alt="Three.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+</p>
+
+### ⚡ Tools & Other Cool Shit
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" height="60" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="60" height="60" alt="Jupyter"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 PROJECTS THAT SLAP DIFFERENT
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔫 AI-GUN DETECTION SYSTEM
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
+
+**The Vibe:** *Your friendly neighborhood weapon detector*
+
+```yaml
+Status: 🟢 FULLY OPERATIONAL
+Accuracy: 95%+ (pretty damn good ngl)
+Tech: YOLOv8, OpenCV, Python
+Flex: Real-time video processing
+```
+
+**What It Does:**
+- Detects weapons in real-time (yes, actually works)
+- Processes live video feeds like a boss
+- Sends instant alerts (faster than you can blink)
+- Could literally save lives (no cap)
+
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square)
+
+> *"This shit actually works and I'm proud af"*
+
+[🔗 Check It Out](https://github.com/aadeshlawande)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 GENETIC TIMETABLE GENERATOR
+<img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100%"/>
+
+**The Vibe:** *Darwin meets scheduling chaos*
+
+```yaml
+Status: 🟢 EVOLVING
+Algorithm: Genetic (Natural Selection Baby!)
+Generations: 1000+ iterations
+Flex: Zero conflicts guaranteed
+```
+
+**What It Does:**
+- Uses evolution to create perfect schedules
+- Handles complex constraints like a champ
+- Watches solutions evolve in real-time
+- Saves hours of manual work (you're welcome)
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Genetic_Algo-FF1493?style=flat-square)
+
+> *"Natural selection but for class schedules"*
+
+[🔗 Check It Out](https://github.com/aadeshlawande)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚛️ QUANTUM COMPUTING LAB
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="100%"/>
+
+**The Vibe:** *Breaking physics for breakfast*
+
+```yaml
+Status: 🟢 SUPERPOSITION MODE
+Platform: IBM Qiskit
+Circuits: Multiple quantum algorithms
+Flex: Organized Qiskit Fall Fest
+```
+
+**What It Does:**
+- Design quantum circuits (yes I'm that smart)
+- Run algorithms on real quantum computers
+- Teach others about quantum weirdness
+- Challenge reality itself
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
+
+> *"Schrodinger's code - it works and doesn't work"*
+
+[🔗 Explore The Void](https://github.com/aadeshlawande)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 CLIMATE AI SOLUTIONS
+<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100%"/>
+
+**The Vibe:** *Saving the planet with algorithms*
+
+```yaml
+Status: 🟢 PLANET SAVING MODE
+Model: LSTM + CNN Hybrid
+Impact: Real environmental change
+Flex: Using AI for actual good
+```
+
+**What It Does:**
+- Predicts climate patterns with ML
+- Analyzes satellite & IoT data
+- 30-day weather forecasting
+- Actually helps fight climate change
+
+**Tech Stack:**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square)
+
+> *"Code that actually gives a shit about Earth"*
+
+[🔗 Save The Planet](https://github.com/aadeshlawande)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 BADGES OF HONOR (flex section)
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚛️-Qiskit_Fall_Fest_MENTOR-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/><br/>
+<sub><b>Organized quantum computing workshops</b></sub><br/>
+<sub>Teaching people to break reality 🤯</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💼-Quantum_Business-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/><br/>
+<sub><b>IBM Qiskit Business Badge</b></sub><br/>
+<sub>Because quantum isn't just physics 📊</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎮-Game_Theory-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/><br/>
+<sub><b>Coursera Certificate</b></sub><br/>
+<sub>Strategic thinking unlocked 🧠</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🧠-Engineering_Psychology-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/><br/>
+<sub><b>Coursera Certificate</b></sub><br/>
+<sub>Understanding how brains work 🤔</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🏆-Hackathon_WINNER-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/><br/>
+<sub><b>AI Climate Solution</b></sub><br/>
+<sub>Built winning solution in 24hrs ⚡</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💻-50+_Open_Source-00D084?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<sub><b>Contributions</b></sub><br/>
+<sub>Giving back to the community 🌟</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aadeshlawande&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
+
+</div>
+
+---
+
+## 📊 GITHUB STATS (stalk me)
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadeshlawande&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f92672&icon_color=a6e22e&text_color=e6db74&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshlawande&theme=radical&hide_border=true&background=0d1117&stroke=f92672&ring=a6e22e&fire=f92672&currStreakLabel=a6e22e" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshlawande&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f92672&text_color=e6db74" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=aadeshlawande&theme=radical&hide_border=true&bg_color=0d1117&title_color=f92672&text_color=e6db74" />
+
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadeshlawande&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f92672&line=a6e22e&point=e6db74&area=true&custom_title=💀%20MY%20CODING%20GRIND%20💀)](https://github.com/aadeshlawande)
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadeshlawande/aadeshlawande/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadeshlawande/aadeshlawande/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎭 WHEN I'M NOT CODING...
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150"/><br/>
+<b>🌍 CLIMATE ACTIVIST</b><br/>
+<sub>Using tech to save Earth<br/>because we kinda need it</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" width="150"/><br/>
+<b>🎮 HORROR GAMES</b><br/>
+<sub>Exploring psychological terror<br/>and game mechanics</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/xUOxeZWKz8sD7SphGo/giphy.gif" width="150"/><br/>
+<b>🧴 SKINCARE NERD</b><br/>
+<sub>Chemistry experiments<br/>on my face fr</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/5nFShZWwq3fdm/giphy.gif" width="150"/><br/>
+<b>🌱 PLANT PARENT</b><br/>
+<sub>Growing plants, patience<br/>and good vibes</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 RANDOM WISDOM DROP
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20time%20to%20start%20was%20yesterday.%20The%20next%20best%20time%20is%20now.%20Stop%20procrastinating%20and%20build%20something%20cool.&author=Aadesh%20Lawande)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 DOWN TO COLLAB ON:
+
+**AI Projects** • **Climate Tech** • **Quantum Computing** • **Open Source** • **Cool Shit That Matters**
+
+### 💀 IF YOU MADE IT THIS FAR, DROP A ⭐ STAR BRO
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+
+### 🎯 DMS ARE OPEN • LET'S BUILD SOMETHING INSANE
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,24&height=150&section=footer&animation=twinkling"/>
 
 </div>
