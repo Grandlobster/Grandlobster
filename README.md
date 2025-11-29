@@ -160,7 +160,7 @@ Evolutionary algorithm-based timetable generation system using natural selection
 - Automated conflict resolution
 
 **TECH STACK:**  
-`Python` • `Genetic Algorithms` • `Constraint Programming` • `Optimization`
+`Vanilla JS` • `Genetic Algorithms` • `Constraint Programming` • `Optimization`
 
 **STATUS:** ✅ Evolving
 
@@ -294,18 +294,18 @@ Deep learning system for climate pattern prediction and environmental analysis.
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Grandlobster&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshlawande&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Grandlobster&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandlobster&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=aadeshlawande&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Grandlobster&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
 
 <!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadeshlawande&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&custom_title=ACTIVITY%20LOG)](https://github.com/aadeshlawande)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grandlobster&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&custom_title=ACTIVITY%20LOG)](https://github.com/aadeshlawande)
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadeshlawande/aadeshlawande/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadeshlawande/aadeshlawande/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Grandlobster/Grandlobster/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Grandlobster/Grandlobster/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
