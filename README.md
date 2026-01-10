@@ -20,16 +20,13 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 ## 🎯 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔫 [AI Weapon Detection System](https://github.com/Grandlobster/A.i_Gun)
+### 🔫 [AI GUN](https://github.com/Grandlobster/A.i_Gun)
 <img src="https://github.com/user-attachments/assets/0b2d801f-c23b-4d1c-b7c1-58324777e48a" width="100%"/>
 
 Real-time weapon detection using YOLOv8 with **95%+ accuracy** and **<100ms latency** for security applications.
@@ -52,7 +49,7 @@ Evolutionary algorithm for zero-conflict timetable generation with **1000+ gener
 <tr>
 <td width="50%">
 
-### 🗳️ [Quantum-Secure E-Voting](https://github.com/Grandlobster/EVM)
+### 🗳️ [EVM](https://github.com/Grandlobster/EVM)
 <img src="https://github.com/user-attachments/assets/f3f06b57-2e8c-402b-89d4-e8347337e648" width="100%"/>
 
 Biometric-authenticated voting system. **🏆 Selected for Avishkar Zonal Competition**
