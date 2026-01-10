@@ -22,28 +22,6 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me
-
-I'm an AI engineer from **Pune, India**, currently at **Zeal College of Engineering**, building technology at the intersection of artificial intelligence, quantum computing, and climate science.
-
-```python
-current_focus = {
-    "🔬 Research": "Real-time AI Detection Systems",
-    "⚛️ Exploring": "Quantum Machine Learning",
-    "🌍 Building": "Climate Tech Solutions",
-    "🎯 Learning": "Advanced Deep Learning"
-}
-```
-
-**🚀 Currently Working On:**
-- Real-time weapon detection with YOLOv8
-- Genetic algorithm optimization
-- Quantum computing applications
-- Climate prediction models
-
-<br clear="right"/>
-
----
 
 ## 🎯 Featured Projects
 
