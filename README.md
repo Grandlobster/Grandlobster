@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -74,7 +74,7 @@ Deep learning for **30-day weather forecasting** using LSTM-CNN hybrid architect
 
 <div align="center">
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages & Core
 <p>
@@ -98,21 +98,21 @@ Deep learning for **30-day weather forecasting** using LSTM-CNN hybrid architect
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 <table>
 <tr>
 <td align="center" width="33%">
 <img width="180" src="https://github.com/user-attachments/assets/58ab09d1-5075-4f90-80d1-ae4e919a05e6" alt="Quantum Workshop"/>
 <br/>
-<b>⚛️ Quantum Computing Workshop</b>
+<b>Quantum Computing Workshop</b>
 <br/>
 <sub>Organized & conducted workshop</sub>
 </td>
 <td align="center" width="33%">
 <img width="180" src="https://github.com/user-attachments/assets/1a1574b4-3aa3-4f1d-8788-2cd406541af9" alt="IBM Qiskit"/>
 <br/>
-<b>💼 IBM Qiskit Certified</b>
+<b> IBM Qiskit Certified</b>
 <br/>
 <sub>Business Applications Badge</sub>
 </td>
@@ -128,9 +128,9 @@ Deep learning for **30-day weather forecasting** using LSTM-CNN hybrid architect
 
 <div align="center">
 
-**🎓 Coursera:** Game Theory • Engineering Psychology  
-**🏅 Avishkar:** Zonal Competition Selection (EVM Project)  
-**💻 Open Source:** 50+ contributions across projects
+**Coursera:** Game Theory • Engineering Psychology  
+** Avishkar:** Zonal Competition Selection (EVM Project)  
+** Open Source:** 50+ contributions across projects
 
 </div>
 
@@ -153,28 +153,28 @@ Deep learning for **30-day weather forecasting** using LSTM-CNN hybrid architect
 
 <div align="center">
 
-## 🌟 What Drives Me
+##  What Drives Me
 
 <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100"/><br/>
-<b>🌍 Climate Tech</b><br/>
+<b> Climate Tech</b><br/>
 <sub>Building sustainable solutions</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" width="100"/><br/>
-<b>⚛️ Quantum Computing</b><br/>
+<b> Quantum Computing</b><br/>
 <sub>Exploring quantum algorithms</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/xUOxeZWKz8sD7SphGo/giphy.gif" width="100"/><br/>
-<b>🧠 AI/ML Research</b><br/>
+<b> AI/ML Research</b><br/>
 <sub>Pushing ML boundaries</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/5nFShZWwq3fdm/giphy.gif" width="100"/><br/>
-<b>🎮 Interactive Tech</b><br/>
+<b> Interactive Tech</b><br/>
 <sub>3D experiences & games</sub>
 </td>
 </tr>
@@ -190,9 +190,9 @@ Deep learning for **30-day weather forecasting** using LSTM-CNN hybrid architect
 
 I'm open to working on impactful projects in **AI/ML**, **Quantum Computing**, **Climate Tech**, and **Open Source**.
 
-**📍 Location:** Pune, India 🇮🇳  
-**📧 Email:** aadeshlawande22@gmail.com  
-**⚡ Status:** Available for collaboration
+** Location:** Pune, India 🇮🇳  
+** Email:** aadeshlawande22@gmail.com  
+** Status:** Available for collaboration
 
 <br/>
 
