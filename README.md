@@ -54,14 +54,12 @@
 <sub>Organized & conducted workshop</sub>
 </td>
 <td align="center" width="33%">
-<img width="180" src="https://github.com/user-attachments/assets/1a1574b4-3aa3-4f1d-8788-2cd406541af9" alt="IBM Qiskit"/>
+<img width="180" height="462" alt="Qiskit Badge" src="https://github.com/user-attachments/assets/927b6570-45a9-488a-9cbe-0feec9f6ea71" />
 <br/>
 <b> IBM Qiskit Certified</b>
 <br/>
 <sub>Business Applications Badge</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🥇-HACKATHON_WINNER-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
 </tr>
 </table>
 
