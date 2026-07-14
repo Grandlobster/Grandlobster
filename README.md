@@ -47,14 +47,15 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img width="180" src="https://github.com/user-attachments/assets/58ab09d1-5075-4f90-80d1-ae4e919a05e6" alt="Quantum Workshop"/>
+<img width="180"  alt="518812019-58ab09d1-5075-4f90-80d1-ae4e919a05e6" src="https://github.com/user-attachments/assets/cd804840-d99c-4327-985e-672b28266f96" />
+
 <br/>
 <b>Quantum Computing Workshop</b>
 <br/>
 <sub>Organized & conducted workshop</sub>
 </td>
 <td align="center" width="33%">
-<img width="180" height="462" alt="Qiskit Badge" src="https://github.com/user-attachments/assets/927b6570-45a9-488a-9cbe-0feec9f6ea71" />
+<img width="180" alt="quantum-business-foundations" src="https://github.com/user-attachments/assets/ab9016f0-be23-4340-9096-dd5e65f04df0" />
 <br/>
 <b> IBM Qiskit Certified</b>
 <br/>
