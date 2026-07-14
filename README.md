@@ -3,8 +3,6 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=AADESH%20LAWANDE&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Quantum%20Explorer%20%7C%20Climate%20Advocate&descSize=18&descAlignY=55"/>
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+AI+Solutions+That+Matter;Exploring+Quantum+%2B+Climate+Tech;Open+to+Impactful+Collaborations" alt="Typing SVG" />
 
 <br/>
 
@@ -55,16 +53,6 @@ Evolutionary algorithm for zero-conflict timetable generation with **1000+ gener
 Biometric-authenticated voting system. **🏆 Selected for Avishkar Zonal Competition**
 
 **Tech:** `Arduino` `RFID` `Biometrics` `IoT`
-
-</td>
-<td width="50%">
-
-### 🌍 Climate AI Intelligence
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100%"/>
-
-Deep learning for **30-day weather forecasting** using LSTM-CNN hybrid architecture.
-
-**Tech:** `TensorFlow` `LSTM` `CNN` `Satellite Data`
 
 </td>
 </tr>
@@ -126,63 +114,6 @@ Deep learning for **30-day weather forecasting** using LSTM-CNN hybrid architect
 </tr>
 </table>
 
-<div align="center">
-
-**Coursera:** Game Theory • Engineering Psychology  
-** Avishkar:** Zonal Competition Selection (EVM Project)  
-** Open Source:** 50+ contributions across projects
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Grandlobster&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Grandlobster&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandlobster&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grandlobster&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true)](https://github.com/aadeshlawande)
-
-</div>
-
----
-
-<div align="center">
-
-##  What Drives Me
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100"/><br/>
-<b> Climate Tech</b><br/>
-<sub>Building sustainable solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" width="100"/><br/>
-<b> Quantum Computing</b><br/>
-<sub>Exploring quantum algorithms</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/xUOxeZWKz8sD7SphGo/giphy.gif" width="100"/><br/>
-<b> AI/ML Research</b><br/>
-<sub>Pushing ML boundaries</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/5nFShZWwq3fdm/giphy.gif" width="100"/><br/>
-<b> Interactive Tech</b><br/>
-<sub>3D experiences & games</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
 
@@ -194,14 +125,5 @@ I'm open to working on impactful projects in **AI/ML**, **Quantum Computing**, *
 ** Email:** aadeshlawande22@gmail.com  
 ** Status:** Available for collaboration
 
-<br/>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
-
-<sub>💚 Built with passion in Pune • Open to opportunities and collaboration</sub>
 
 </div>
