@@ -18,50 +18,6 @@
 
 ---
 
-##  Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔫 [AI GUN](https://github.com/Grandlobster/A.i_Gun)
-<img src="https://github.com/user-attachments/assets/0b2d801f-c23b-4d1c-b7c1-58324777e48a" width="100%"/>
-
-Real-time weapon detection using YOLOv8 with **95%+ accuracy** and **<100ms latency** for security applications.
-
-**Tech:** `Python` `YOLOv8` `OpenCV` `TensorFlow`
-
-</td>
-<td width="50%">
-
-### 🧬 [Genetic Algorithm Scheduler](https://github.com/Grandlobster/Timetable-Generator)
-<img src="https://github.com/user-attachments/assets/e45e80be-28a7-46d9-83aa-c1204b14e689" width="100%"/>
-
-Evolutionary algorithm for zero-conflict timetable generation with **1000+ generation** optimization.
-
-**Tech:** `JavaScript` `Genetic Algorithms` `Optimization`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗳️ [EVM](https://github.com/Grandlobster/EVM)
-<img src="https://github.com/user-attachments/assets/f3f06b57-2e8c-402b-89d4-e8347337e648" width="100%"/>
-
-Biometric-authenticated voting system. **🏆 Selected for Avishkar Zonal Competition**
-
-**Tech:** `Arduino` `RFID` `Biometrics` `IoT`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ##  Tech Stack
 
 ### Languages & Core
@@ -106,11 +62,6 @@ Biometric-authenticated voting system. **🏆 Selected for Avishkar Zonal Compet
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🥇-HACKATHON_WINNER-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
-<br/>
-<b>Climate AI Solution</b>
-<br/>
-<sub>24-hour competition winner</sub>
-</td>
 </tr>
 </table>
 
